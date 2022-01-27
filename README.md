@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgeKutay
 - 👀 I’m interested in Computer Graphics, Artificial Intellegence, Machine Learning, Video Game Development.
-- 🌱 I’m currently learning OpenGL, MATLAB Simulink.
+- 🌱 I’m currently learning OpenGL
 
 
 <!---
