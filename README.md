@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgeKutay
-- 👀 I’m interested in Computer Graphics, Artificial Intellegence, Machine Learning, Video Game Development.
-- 🌱 I’m currently learning OpenGL
+- 👀 I’m interested in Computer Graphics, Video Game Development, Machine Learning, Web Application Development
+- 🌱 I’m currently learning OpenGL, ASP.NET, vue.js
 
 
 <!---
