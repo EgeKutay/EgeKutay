@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgeKutay
 - 👀 I’m interested in Computer Graphics, Video Game Development, Software Development
-- 🌱 I’m currently learning ASP.NET and vue.js
+- 🌱 I’m currently learning ASP.NET and vue.js, opengl
 
 
 <!---
