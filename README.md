@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EgeKutay
-- 👀 I’m interested in Computer Graphics, Video Game Development, Software Development, front-end development
+- 👀 I’m interested in Video Game Development, Software(web app) Development.
 - 🌱 I’m currently learning ASP.NET, vue.js, OpenGL
 
 
