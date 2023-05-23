@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgeKutay
-- 👀 I’m interested in Video Game Development, Software Development.
-- 🌱 I’m currently learning ASP.NET, vue.js, Unity
+- 👀 I’m interested in Mobile Development(flutter)/Front-end development
+- 🌱 I’m currently learning vue.js, Flutter, unity
 
 
 <!---
