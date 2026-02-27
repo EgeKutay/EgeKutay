@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgeKutay
-- 👀 I’m interested in Mobile Development(flutter)/Front-end development
-- 🌱 I’m currently learning vue.js, Flutter, unity
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning java spring boot
 
 
 <!---
