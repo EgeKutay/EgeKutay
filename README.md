@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgeKutay
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning java spring boot
+- 👀 I’m interested in Software Engineering 
+- 🌱 I’m currently learning Java Spring Boot and exploring practical uses of Generative AI
 
 
 <!---
